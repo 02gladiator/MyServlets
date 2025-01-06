@@ -1,7 +1,6 @@
 package ru.itis.repositories.impl;
 
 import ru.itis.models.Enemy;
-import ru.itis.models.User;
 import ru.itis.repositories.interfaces.EnemyRepository;
 
 import java.sql.*;

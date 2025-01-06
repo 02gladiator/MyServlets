@@ -1,7 +1,6 @@
 package ru.itis.repositories.impl;
 
 import ru.itis.models.Artifacts;
-import ru.itis.models.User;
 import ru.itis.repositories.interfaces.ArtifactsRepository;
 
 import java.sql.*;
